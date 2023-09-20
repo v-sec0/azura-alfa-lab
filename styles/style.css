@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+
+body {
+  text-align: center;
+  font-family: 'Preahvihear', sans-serif;
+  background-image: url('https://images.unsplash.com/photo-1542549237432-a176cb9d5e5e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTI5MDUwNzd8&ixlib=rb-4.0.3&q=85');
+  background-color: lightgreen;
+
+}
+
+button {
+  font-family: 'Preahvihear', sans-serif;
+ 
+}
+
+input {
+  font-family: 'Preahvihear', sans-serif;
+  font-size: 16px;
+}
+
+div {
+  font-size:18px;
+}
