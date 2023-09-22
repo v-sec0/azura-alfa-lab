@@ -5,6 +5,7 @@ body {
   font-family: 'Preahvihear', sans-serif;
   background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-eu.ssl-images-amazon.com%2Fimages%2FI%2FA11vlY0GFlL.png&f=1&nofb=1&ipt=9f0e5b6f3c5624299cdd36e157e6fd6a599770092383d8637d260b12d0563600&ipo=images');
   background-color: lightgreen;
+  color: white;
 
 }
 
@@ -16,6 +17,7 @@ button {
 input {
   font-family: 'Preahvihear', sans-serif;
   font-size: 16px;
+  color: black;
 }
 
 div {
